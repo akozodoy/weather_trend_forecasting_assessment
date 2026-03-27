@@ -31,7 +31,7 @@ This confirms strong seasonality, which justifies the use of time-based and lag 
 
 - Warmer regions concentrated near the equator
 - Cooler temperatures observed at higher latitudes
-- Clear global climate gradient (tropical → temperate → polar)
+- Clear global climate gradient 
 - This demonstrates strong spatial dependence in temperature patterns.
 
 ### Country-Level Temperature Analysis
@@ -227,7 +227,6 @@ Multiple models were trained and evaluated using time-aware validation, includin
     ```
     git clone https://github.com/your-username/weather_trend_forecasting_assessment.git
     cd weather_trend_forecasting_assessment
-
     ```
     Install required dependencies:
 
