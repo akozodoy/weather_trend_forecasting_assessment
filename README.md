@@ -1,3 +1,7 @@
+## PM Accelerator mission
+
+By making industry-leading tools and education available to individuals from all backgrounds, we level the playing field for future PM leaders. This is the PM Accelerator motto, as we grant aspiring and experienced PMs what they need most – Access. We introduce you to industry leaders, surround you with the right PM ecosystem, and discover the new world of AI product management skills
+
 # Weather Forecasting
 
 The goal of this project is to develop machine learning models to forecast temperature using historical wather data and analyze climate patterns across different regions.
